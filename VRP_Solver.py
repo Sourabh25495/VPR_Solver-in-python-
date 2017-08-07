@@ -5,7 +5,7 @@
 #	   1. Amit Bhorania
 #	   2. Mandar Patil
 #	   3. Sourabh Kulkarni
-#	   4. Garima Aggarwal
+#	   
 #
 # Developed in: Python 2.7
 #
