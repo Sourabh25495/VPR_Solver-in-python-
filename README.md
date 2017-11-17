@@ -9,3 +9,12 @@ Stage 1- Extracts the data from google maps.
 Stage 2- Computes the shortest path(s) of all the paths available(n!) thakin all the addresses into account.
       
 Stage 3- Displays it on Google map
+
+
+
+
+
+
+
+
+//test successful
